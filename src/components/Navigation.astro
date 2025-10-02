@@ -14,19 +14,19 @@ const chapters = Object.groupBy(allPosts.filter(post => post.data.chapter), (pos
         <br/>
         <div class="label">Chapters</div>
         {Object.entries(chapters).map(([chapter, posts]) => {
-            const chapterSlug = '/becoming/' + chapter.toLowerCase().replaceAll(' ', '-')
+            const chapterSlug = '/' + chapter.toLowerCase().replaceAll(' ', '-')
             const isChapterActive = pathname.startsWith(chapterSlug)
 
             if(isChapterActive){
                 return <>
                     <div class="navLink">{chapter}</div>
                     <div class="activeChapter">
-                        {posts?.map(post => <a href={chapterSlug + post.data.slug} aria-current={pathname === chapterSlug + post.data.slug ? 'page' : undefined} class="navLink">{post.data.title}</a>)}
+                        {posts?.map(post => <a href={'/becoming' + chapterSlug + post.data.slug} aria-current={pathname === chapterSlug + post.data.slug ? 'page' : undefined} class="navLink">{post.data.title}</a>)}
                     </div>
                 </>
             }
 
-            return <a href={chapterSlug + posts?.[0].data.slug} class="navLink">{chapter}</a>
+            return <a href={'/becoming' + chapterSlug + posts?.[0].data.slug} class="navLink">{chapter}</a>
         })}
     </nav>
 </aside>
