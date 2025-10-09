@@ -2,6 +2,9 @@
 import { getCollection } from 'astro:content'
 
 const pathname = Astro.url.pathname
+// Debug: log what we're comparing
+console.log('Current pathname:', pathname)
+console.log('Full URL:', Astro.url.href)
 const allPosts = (await getCollection('posts')).sort(
   (a, b) => a.data.publishDate.getTime() - b.data.publishDate.getTime(),
 )
@@ -23,6 +26,7 @@ const chapters = Object.groupBy(allPosts.filter(post => post.data.chapter), (pos
                     <div class="activeChapter">
                         {posts?.map(post => {
                             const postUrl = `${chapterSlug}${post.data.slug.startsWith('/') ? post.data.slug : '/' + post.data.slug}`
+                            console.log(`Comparing: "${pathname}" === "${postUrl}" = ${pathname === postUrl}`)
                             return <a href={postUrl} aria-current={pathname === postUrl ? 'page' : undefined} class="navLink">{post.data.title}</a>
                         })}
                     </div>
