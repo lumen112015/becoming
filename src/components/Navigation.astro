@@ -1,8 +1,7 @@
 ---
 import { getCollection } from 'astro:content'
 
-// Normalize pathname for both dev and production
-const pathname = Astro.url.pathname.replace(import.meta.env.BASE_URL || '/', '/') || '/'
+const pathname = Astro.url.pathname
 const allPosts = (await getCollection('posts')).sort(
   (a, b) => a.data.publishDate.getTime() - b.data.publishDate.getTime(),
 )
@@ -22,12 +21,16 @@ const chapters = Object.groupBy(allPosts.filter(post => post.data.chapter), (pos
                 return <>
                     <div class="navLink">{chapter}</div>
                     <div class="activeChapter">
-                        {posts?.map(post => <a href={chapterSlug + post.data.slug} aria-current={pathname === chapterSlug + post.data.slug ? 'page' : undefined} class="navLink">{post.data.title}</a>)}
+                        {posts?.map(post => {
+                            const postUrl = `${chapterSlug}${post.data.slug.startsWith('/') ? post.data.slug : '/' + post.data.slug}`
+                            return <a href={postUrl} aria-current={pathname === postUrl ? 'page' : undefined} class="navLink">{post.data.title}</a>
+                        })}
                     </div>
                 </>
             }
 
-            return <a href={chapterSlug + posts?.[0].data.slug} class="navLink">{chapter}</a>
+            const firstPostUrl = `${chapterSlug}${posts?.[0].data.slug.startsWith('/') ? posts?.[0].data.slug : '/' + posts?.[0].data.slug}`
+            return <a href={firstPostUrl} class="navLink">{chapter}</a>
         })}
     </nav>
 </aside>
