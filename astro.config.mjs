@@ -4,8 +4,7 @@ import mdx from "@astrojs/mdx";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://lumen112015.github.io",
-  base: "/",
+  site: "https://becominglumen.com",
   integrations: [mdx()],
   devToolbar: {
     enabled: false,
