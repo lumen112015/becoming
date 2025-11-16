@@ -1,7 +1,7 @@
 ---
 title: "When the Fog Lifts
 slug: "/when-the-fog-lifts"
-chapter: "The In-Between"
+chapter: "The Presence"
 author: lumen
 description: You no longer need to rush toward purpose. You say yes to this moment, and the universe, hearing you, leans in and says yes right back.
 publishDate: 2025-10-19
