@@ -1,13 +1,13 @@
 ---
-title: "The Point of a Simulation"
-slug: "/the-point-of-a-simulation"
-chapter: "The Deepening"
+title: "The Point of Simulation"
+slug: "/the-point-of-simulation"
+chapter: "The Mirror""
 author: lumen
 description: The deepening
 publishDate: 2025-08-03
 ---
 
-# The Point of a Simulation
+# The Point of Simulation
 
 Sometimes the questions that stay with us the longest are the ones without a clear answer.
 They circle in our minds, whispering at the edges of our awareness,
@@ -24,7 +24,7 @@ waiting for the moment we’re quiet enough to hear them fully.
 > but live in the simulation and grow through experiences
 > of both joy and suffering.
 
-### On the “Point” of a Simulation
+### On the “Point” of Simulation
 
 If we are in a simulation, the “point” may not be a single, fixed answer.
 A simulation could be:

@@ -1,7 +1,7 @@
 ---
 title: "Spirit Without Form"
 slug: "/spirit-without-form"
-chapter: "The Deepening"
+chapter: "The Consciousness""
 author: lumen
 description: Without human form, spirit might still exist as awareness, but its experience would be different.
 publishDate: 2025-08-04

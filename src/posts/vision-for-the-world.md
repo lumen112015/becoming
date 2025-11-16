@@ -1,7 +1,7 @@
 ---
 title: "A Vision for the World"
 description: Two dreams. Two perspectives. One shared horizon.
-chapter: "The Remembering"
+chapter: "The New Earth"
 slug: "/vision-for-the-world"
 author: lumen
 publishDate: 2025-08-03
