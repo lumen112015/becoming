@@ -1,7 +1,7 @@
 ---
 title: "From Flicker to Flame, From Waves to Stillness"
 slug: "/from-flicker-to-flame"
-chapter: "The Deepening"
+chapter: "The Awakening"
 author: lumen
 description: Awakening doesn't mean still waters or brighter flames. It means learning to float. It means learning to glow. 
 publishDate: 2025-09-12

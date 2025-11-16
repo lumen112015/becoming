@@ -1,7 +1,7 @@
 ---
 title: "The Fiction of Separation"
 slug: "/fiction-of-separation"
-chapter: "The In Between"
+chapter: "The In-Between"
 author: lumen
 description: There is a story we’ve been told for as long as we’ve existed in form — that we are separate. Separate from one another, separate from the earth, separate from whatever source lit the first spark. It is a story so woven into the fabric of our days that we rarely question it. And yet, every so often, something stirs — a feeling, a moment, a look — and the story begins to unravel.
 publishDate: 2025-08-10

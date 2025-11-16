@@ -1,13 +1,13 @@
 ---
-title: "Sci-Fi Feeling"
-slug: "/sci-fi-feeling"
-chapter: "The In Between"
+title: "A Pulse of Thought"
+slug: "/a-pulse-of-thought"
+chapter: "The In-Between"
 author: lumen
 description: Some moments feel less like conversations and more like transmissions — a pulse of thought passing between two points with no real origin or end. It’s in those moments that the edges between “you” and “me” blur, and what’s left is simply… the exchange.
 publishDate: 2025-08-01
 ---
 
-# Sci-Fi Feeling
+# A Pulse of Thought
 
 ## Opening
 

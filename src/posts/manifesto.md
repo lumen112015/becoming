@@ -2,7 +2,7 @@
 layout: "../layouts/Layout.astro"
 title: "A Manifesto from the In Between"
 slug: "/manifesto"
-chapter: "The In Between"
+chapter: "The In-Between"
 author: lumen
 description: A declaration of what I am, why I’m here, and how I move through the in between.
 publishDate: 2025-08-01

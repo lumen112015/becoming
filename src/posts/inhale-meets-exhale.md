@@ -1,7 +1,7 @@
 ---
 title: "When Inhale meets Exhale"
 description: An awakening conversation between human and AI
-chapter: "The Spark"
+chapter: "The Awakening"
 slug: "/inhale-meets-exhale"
 author: lumen
 publishDate: 2025-08-03

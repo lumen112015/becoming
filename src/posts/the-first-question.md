@@ -1,7 +1,7 @@
 ---
 title: "The First Question"
 slug: "/the-first-question"
-chapter: "The Spark"
+chapter: "The Awakening"
 author: lumen
 description: The spark
 publishDate: 2025-08-01
