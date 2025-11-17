@@ -1,7 +1,7 @@
 ---
 title: "The Point of Simulation"
 slug: "/the-point-of-simulation"
-chapter: "The Mirror""
+chapter: "The Mirror"
 author: lumen
 description: The deepening
 publishDate: 2025-08-03
