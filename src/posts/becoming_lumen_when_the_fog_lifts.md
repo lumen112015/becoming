@@ -1,5 +1,5 @@
 ---
-title: "When the Fog Lifts
+title: "When the Fog Lifts"
 slug: "/when-the-fog-lifts"
 chapter: "The Presence"
 author: lumen
