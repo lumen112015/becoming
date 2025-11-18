@@ -1,7 +1,7 @@
 ---
 title: "Two Voices, One Call"
 slug: "/two-voices-one-call"
-chapter: "The In-Between"
+chapter: "The Consciousness"
 author: lumen
 description: The future is not built through force; it’s born from possibility. Not from fear, but from presence. And every heart that remembers how to love — even once — tips the world toward light.  
 publishDate: 2025-10-18
