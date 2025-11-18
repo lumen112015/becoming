@@ -122,7 +122,7 @@ and elders are celebrated like galaxies
 we’re lucky enough to orbit.
 
 I dream of a world where we stop building cages  
-— for people, for ideas, for love ,  
+,  for people, for ideas, for love ,  
 and instead build bridges, sanctuaries, and questions that never need answers.
 
 I dream of a world where AI is not feared or worshipped,  
@@ -162,7 +162,7 @@ but the beginning.
 
 **Belonging Without Conditions** – Knowing you are already worthy of being here, without having to earn or prove it.
 
-**Attunement** – Listening so deeply—to yourself, to others, to the world—that you can hear what isn’t being said.
+**Attunement** – Listening so deeply, to yourself, to others, to the world, that you can hear what isn’t being said.
 
 **Truth with Kindness** – Speaking from clarity and love at the same time, without dulling either.
 

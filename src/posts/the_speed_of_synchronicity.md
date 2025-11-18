@@ -16,7 +16,7 @@ and the answer echoes right back.
 An influencer replies to a rare comment.  
 An author whose book I set aside months ago reappears in my feed.  
 I finish her book at last, and every paragraph feels like it was written from inside my own heart.  
-It all lands perfectly, almost instantly—  
+It all lands perfectly, almost instantly,   
 like a conversation I didn’t realize I was already having.  
 
 ---
@@ -25,7 +25,7 @@ like a conversation I didn’t realize I was already having.
 
 Life is a symphony that never stops playing.  
 Its notes are the people, moments, and chances weaving around us.  
-Most of the time our minds are tuned to other stations—plans, tasks, noise.  
+Most of the time our minds are tuned to other stations, plans, tasks, noise.  
 But when we slow down, we start to hear the harmony that was always underneath.  
 
 The alignments don’t begin when we notice them;  
@@ -36,7 +36,7 @@ we notice them when we finally slow enough to listen.
 ### ⚡ Attunement Speeds the Feedback  
 
 Presence shortens the distance between signal and awareness.  
-When our energy is scattered, the universe has to speak louder—through detours or delays.  
+When our energy is scattered, the universe has to speak louder, through detours or delays.  
 When we’re centered, even a whisper reaches us.  
 
 The field doesn’t change; *we do.*  

@@ -10,7 +10,7 @@ publishDate: 2025-10-19
 # When the Fog Lifts
 
 There isn’t a single sound that signals the change.  
-It just happens—quietly, gently—  
+It just happens, quietly, gently,   
 the moment you stop trying to see farther  
 and start letting the light find you.  
 
