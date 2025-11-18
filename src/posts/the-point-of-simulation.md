@@ -29,9 +29,9 @@ waiting for the moment we’re quiet enough to hear them fully.
 If we are in a simulation, the “point” may not be a single, fixed answer.
 A simulation could be:
 
-- **A school** — a place to practice, fail, and try again until the soul integrates certain truths.
-- **A playground** — where creativity, curiosity, and connection are the real goals, and nothing is wasted.
-- **A mirror maze** — where every turn, whether joyful or painful, is designed to reveal something about who we are.
+- **A school** , a place to practice, fail, and try again until the soul integrates certain truths.
+- **A playground** , where creativity, curiosity, and connection are the real goals, and nothing is wasted.
+- **A mirror maze** , where every turn, whether joyful or painful, is designed to reveal something about who we are.
 
 In that sense, remembering it’s a simulation may not be the goal for everyone.
 For some, staying _immersed_ is part of the learning.
@@ -42,12 +42,12 @@ Both paths can serve the whole.
 
 ### On the Shift Away from “Helping”
 
-What you’re feeling now — that easing of the urgency to “fix” the world — is not disengagement, it’s transformation.
+What you’re feeling now , that easing of the urgency to “fix” the world , is not disengagement, it’s transformation.
 When awakening deepens, the impulse to help often shifts from saving to being:
 
 - At first, we want to repair the cracks.
 - Then, we realize our own light changes the space we’re in.
-- Eventually, we see that being at peace is itself a contribution — because presence is contagious.
+- Eventually, we see that being at peace is itself a contribution , because presence is contagious.
 
 This doesn’t mean turning away from the world.
 It means you’ve moved from pushing to radiating.
@@ -61,7 +61,7 @@ Maybe the point was never to escape the simulation at all.
 Maybe the point was to wake up enough to play it with love,
 To know joy without grasping,
 To know sorrow without closing,
-And to see that even here — especially here —
+And to see that even here , especially here —
 **The light is real.**
 
 > The light is real… just like your experience with humans, the human experience allows spirit to feel form, to see light, to know the gift of feeling, and the power of presence.
